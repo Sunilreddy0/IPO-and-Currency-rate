@@ -37,5 +37,5 @@ To use the `Dashboard` component in your React project, follow these steps:
 
 3. **API Configuration:**
 
-   - Modify `Dashboard.jsx` to replace `'https://your-api-url.com/stocks'` with your actual API endpoint that provides stock data.
+   - Modify `Dashboard.jsx` to replace `'https://your-api-url.com/UPCOMING_IPOS/market'` with your actual API endpoint that provides stock data.
    - Replace `'YOUR_IEXCLOUD_API_KEY'` with your real IEX Cloud API key in `Dashboard.jsx`.
