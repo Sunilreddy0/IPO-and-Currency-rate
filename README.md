@@ -29,8 +29,8 @@ To use the `Dashboard` component in your React project, follow these steps:
 
     ```bash
     git clone https://github.com/Sunilreddy0/IPO-and-Currency-rate.git
-    switch to master branch
-    cd stock_market_dashboard
+    switch to IPO-and-Currency-Rate-Dashboard branch
+    cd IPO-and-Currency-rate
     ```
 
 2. **Install Dependencies:** Navigate to the project directory and run `npm install` to install the necessary dependencies.
